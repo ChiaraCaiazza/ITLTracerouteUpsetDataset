@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/ChiaraCaiazza/ITLTraceroteUpsetDataset/master/ITLTraceroute13%3A21%3A53.csv",
+	"name": "ITLTraceroute ASes",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 3 }
+	]
+}
