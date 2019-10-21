@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/ChiaraCaiazza/ITLTraceroteUpsetDataset/master/csvFiles/FIXEDSPORT_3ATTEMPT_ITLTracerouteASLinks2019-10-21_14%3A08%3A58.csv",
+	"name": "ITLTraceroute ASLinks (fixed sport, 3 tentativi)",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 3 }
+	]
+}
